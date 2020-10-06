@@ -86,7 +86,8 @@ export function getResultsStates (props) {
         case 'combinations-0e':
         case 'combinations-1e':
         case 'combinations-2e':
-        case 'combinations-3e': {
+        case 'combinations-3e':
+        case 'combinations-4e': {
           break
         }
       }

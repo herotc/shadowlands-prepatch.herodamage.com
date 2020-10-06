@@ -68,13 +68,13 @@ export const simulationDetails = {
     simulationTemplate: 'combinations'
   },
   'combinator-3e': {
-    simulationFeaturedOrder: 4,
     simulationCategory: 'combinations',
     simulationType: 'combinations-3e',
     simulationTypeOrder: 105,
     simulationTemplate: 'combinations'
   },
   'combinator-4e': {
+    simulationFeaturedOrder: 4,
     simulationCategory: 'combinations',
     simulationType: 'combinations-4e',
     simulationTypeOrder: 106,
