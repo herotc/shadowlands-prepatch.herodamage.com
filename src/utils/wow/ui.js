@@ -118,8 +118,11 @@ export function getWowheadDomain (lang) {
  * @returns {string}
  */
 export function getWowheadLink (lang) {
-  const wowheadDomain = getWowheadDomain(lang)
-  return `https://${wowheadDomain}.wowhead.com/`
+  // FIXME: Uncomment once wowhead have 9.0 data on live
+  // const wowheadDomain = getWowheadDomain(lang)
+  // return `https://${wowheadDomain}.wowhead.com/`
+
+  return `https://shadowlands.wowhead.com/`
 }
 
 /**

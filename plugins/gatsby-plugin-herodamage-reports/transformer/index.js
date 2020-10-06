@@ -119,8 +119,7 @@ export class ReportTransformer {
       totalActors: metas.totalActors,
       simcBuildTimestamp: metas.simcBuildTimestamp,
       simcGitRevision: metas.simcGitRevision || '',
-      wowVersion: metas.wowVersion,
-      wowBuild: metas.wowBuild
+      wowVersion: metas.wowVersion
     })
   }
 

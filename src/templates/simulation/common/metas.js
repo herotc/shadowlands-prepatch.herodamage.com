@@ -13,7 +13,7 @@ function timeAgo (date) {
   }
 }
 
-const Metas = ({ i18nPlugin, fightLength, fightLengthVariation, simcBuildTimestamp, simulationCategory, simcGitRevision, targetError, templateGear, templateTalents, templateDPS, wowBuild, wowClass, wowVersion }) => {
+const Metas = ({ i18nPlugin, fightLength, fightLengthVariation, simcBuildTimestamp, simulationCategory, simcGitRevision, targetError, templateGear, templateTalents, templateDPS, wowClass, wowVersion }) => {
   const buildDate = new Date(simcBuildTimestamp * 1000)
   const lang = i18nPlugin?.lang
   return (
@@ -22,7 +22,7 @@ const Metas = ({ i18nPlugin, fightLength, fightLengthVariation, simcBuildTimesta
         <Trans><b>Last Update:</b></Trans>&nbsp;{timeAgo(buildDate)}
         <DateFormat value={buildDate}
           format={{ month: 'short', day: '2-digit', hour: '2-digit', minute: '2-digit' }}/> (CEST)<br/>
-        <Trans><b>WoW-Build:</b></Trans> {wowVersion}.{wowBuild}&nbsp;
+        <Trans><b>WoW Version:</b></Trans> {wowVersion}&nbsp;
         <a href={`https://github.com/simulationcraft/simc/commits/${simcGitRevision}`}
           title="Corresponding SimC commit">#{simcGitRevision}</a><br/>
         <Trans><b>Target Error:</b></Trans> {targetError}% (~{Math.round(templateDPS * targetError / 100)} DPS)<br/>
@@ -83,7 +83,6 @@ Metas.propTypes = {
   templateGear: PropTypes.array,
   templateTalents: PropTypes.array,
   templateDPS: PropTypes.number.isRequired,
-  wowBuild: PropTypes.number.isRequired,
   wowClass: PropTypes.string,
   wowVersion: PropTypes.string.isRequired
 }

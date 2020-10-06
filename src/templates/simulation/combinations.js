@@ -125,7 +125,7 @@ class CombinationsSimulationTemplate extends React.Component {
     const { data, i18nPlugin, pageContext } = this.props
     const { multiTargets, order, orderBy, page, results, rowsPerPage, azeritePowersFilter, talentsTree } = this.state
     const { t, wowheadLink } = i18nPlugin
-    const { fightStyle, fightLength, fightLengthVariation, name, simcBuildTimestamp, simcGitRevision, simulationFeaturedOrder, simulationCategory, simulationType, spec, targetError, templateGear, templateDPS, tier, variation, wowBuild, wowClass, wowVersion } = pageContext
+    const { fightStyle, fightLength, fightLengthVariation, name, simcBuildTimestamp, simcGitRevision, simulationFeaturedOrder, simulationCategory, simulationType, spec, targetError, templateGear, templateDPS, tier, variation, wowClass, wowVersion } = pageContext
     return (
       <div>
         <h1>{startCase(simulationType)} {toUpper(fightStyle)} {toUpper(tier)} {getSpecWithVariation(t, spec, variation)} {startCase(t(wowClass))}</h1>
@@ -152,7 +152,7 @@ class CombinationsSimulationTemplate extends React.Component {
         <Metas i18nPlugin={i18nPlugin} fightLength={fightLength} fightLengthVariation={fightLengthVariation}
           simcBuildTimestamp={simcBuildTimestamp} simulationCategory={simulationCategory}
           simcGitRevision={simcGitRevision} targetError={targetError} templateGear={templateGear}
-          templateDPS={templateDPS} wowBuild={wowBuild} wowClass={wowClass} wowVersion={wowVersion} />
+          templateDPS={templateDPS} wowClass={wowClass} wowVersion={wowVersion} />
         {!results &&
         <CircularProgress id="results-loader" color="secondary" />}
         {results &&
