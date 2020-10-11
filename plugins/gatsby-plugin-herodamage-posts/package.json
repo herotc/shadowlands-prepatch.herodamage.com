@@ -14,8 +14,8 @@
     "url": "https://github.com/herotc/shadowlands-prepatch.herodamage.com/tree/master/plugins/gatsby-plugin-herodamage-posts"
   },
   "peerDependencies": {
-    "gatsby": "latest",
-    "gatsby-source-filesystem": "latest",
-    "gatsby-transformer-remark": "latest"
+    "gatsby": "^2.0.0",
+    "gatsby-source-filesystem": "^2.0.0",
+    "gatsby-transformer-remark": "^2.0.0"
   }
 }

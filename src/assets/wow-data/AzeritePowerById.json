@@ -27,13 +27,13 @@
     "spellId": 267880,
     "spellName": "Woundbinder",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "20": {
     "spellId": 267665,
     "spellName": "Lifespeed",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 6, 10, 11, 12]
   },
   "21": {
     "spellId": 263984,
@@ -69,19 +69,19 @@
     "spellId": 267879,
     "spellName": "On My Way",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "42": {
     "spellId": 267883,
     "spellName": "Savior",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "43": {
     "spellId": 267671,
     "spellName": "Winds of War",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 6, 10, 11, 12]
   },
   "44": {
     "spellId": 268599,
@@ -141,55 +141,55 @@
     "spellId": 267683,
     "spellName": "Azerite Veins",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 6, 10, 11, 12]
   },
   "98": {
     "spellId": 271536,
     "spellName": "Crystalline Carapace",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 6, 10, 11, 12]
   },
   "99": {
     "spellId": 271540,
     "spellName": "Ablative Shielding",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 6, 10, 11, 12]
   },
   "100": {
     "spellId": 271546,
     "spellName": "Strength in Numbers",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 6, 10, 11, 12]
   },
   "101": {
     "spellId": 271557,
     "spellName": "Shimmering Haven",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 6, 10, 11, 12]
   },
   "102": {
     "spellId": 267892,
     "spellName": "Synergistic Growth",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "103": {
     "spellId": 267882,
     "spellName": "Concentrated Mending",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "104": {
     "spellId": 267884,
     "spellName": "Bracing Chill",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "105": {
     "spellId": 267886,
     "spellName": "Ephemeral Recovery",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "106": {
     "spellId": 272684,
@@ -1623,7 +1623,7 @@
     "spellId": 267889,
     "spellName": "Blessed Portents",
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "465": {
     "spellId": 280011,
@@ -1845,13 +1845,13 @@
     "spellId": 280181,
     "spellName": "Personal Absorb-o-Tron",
     "tier": 1,
-    "classesId": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
   },
   "503": {
     "spellId": 280172,
     "spellName": "Auto-Self-Cauterizer",
     "tier": 1,
-    "classesId": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
   },
   "504": {
     "spellId": 281514,

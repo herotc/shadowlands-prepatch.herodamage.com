@@ -3,7 +3,7 @@
     "powerId": 99,
     "spellId": 271540,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 6, 10, 11, 12]
   },
   "Ace Up Your Sleeve": {
     "powerId": 411,
@@ -75,7 +75,7 @@
     "powerId": 503,
     "spellId": 280172,
     "tier": 1,
-    "classesId": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
   },
   "Autumn Leaves": {
     "powerId": 210,
@@ -111,7 +111,7 @@
     "powerId": 89,
     "spellId": 267683,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 6, 10, 11, 12]
   },
   "Baleful Invocation": {
     "powerId": 515,
@@ -159,7 +159,7 @@
     "powerId": 463,
     "spellId": 267889,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "Blessed Sanctuary": {
     "powerId": 165,
@@ -243,7 +243,7 @@
     "powerId": 104,
     "spellId": 267884,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "Brain Storm": {
     "powerId": 167,
@@ -393,7 +393,7 @@
     "powerId": 103,
     "spellId": 267882,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "Contemptuous Homily": {
     "powerId": 398,
@@ -417,7 +417,7 @@
     "powerId": 98,
     "spellId": 271536,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 6, 10, 11, 12]
   },
   "Cycle of Binding": {
     "powerId": 354,
@@ -609,7 +609,7 @@
     "powerId": 105,
     "spellId": 267886,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "Equipoise": {
     "powerId": 127,
@@ -1078,7 +1078,7 @@
     "powerId": 20,
     "spellId": 267665,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 6, 10, 11, 12]
   },
   "Light's Decree": {
     "powerId": 396,
@@ -1210,7 +1210,7 @@
     "powerId": 38,
     "spellId": 267879,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "Open Palm Strikes": {
     "powerId": 389,
@@ -1282,7 +1282,7 @@
     "powerId": 502,
     "spellId": 280181,
     "tier": 1,
-    "classesId": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
   },
   "Power of the Moon": {
     "powerId": 173,
@@ -1475,7 +1475,7 @@
     "powerId": 42,
     "spellId": 267883,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "Scent of Blood": {
     "powerId": 406,
@@ -1559,7 +1559,7 @@
     "powerId": 101,
     "spellId": 271557,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 6, 10, 11, 12]
   },
   "Shrouded Mantle": {
     "powerId": 473,
@@ -1655,7 +1655,7 @@
     "powerId": 100,
     "spellId": 271546,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 6, 10, 11, 12]
   },
   "Strength of Earth": {
     "powerId": 179,
@@ -1763,7 +1763,7 @@
     "powerId": 102,
     "spellId": 267892,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "Tectonic Thunder": {
     "powerId": 417,
@@ -1997,7 +1997,7 @@
     "powerId": 43,
     "spellId": 267671,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [1, 2, 6, 10, 11, 12]
   },
   "Word of Mending": {
     "powerId": 401,
@@ -2009,7 +2009,7 @@
     "powerId": 19,
     "spellId": 267880,
     "tier": 2,
-    "classesId": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "classesId": [2, 5, 7, 10, 11]
   },
   "Wracking Brilliance": {
     "powerId": 123,
