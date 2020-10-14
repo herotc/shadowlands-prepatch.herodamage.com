@@ -18,9 +18,7 @@
     "itemId": 168617,
     "rank3Id": 15,
     "name": "Worldvein Resonance (3 Allies)",
-    "additionalInput": [
-      "bfa.worldvein_allies=3"
-    ]
+    "additionalInput": ["bfa.worldvein_allies=3"]
   },
   {
     "essenceId": 15,
