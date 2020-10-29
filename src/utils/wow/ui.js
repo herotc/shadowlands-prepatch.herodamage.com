@@ -297,7 +297,7 @@ export function wowRaceLabel (rawName, wowClass, spec, templateTalentsMapping, l
 export function wowTrinketLabel (rawItemName, wowClass, spec, templateTalentsMapping, lang = defaultLang, container = true) {
   // Split up the variations
   const parts = rawItemName.split('--')
-  const trinket = getTrinketInformation(parts[0])
+  const trinket = getTrinketInformation(parts[0].split(' (')[0])
   if (!trinket) return (container && `<div class="label-container">${rawItemName}</div>`) || `${rawItemName}`
 
   const { itemId } = trinket
