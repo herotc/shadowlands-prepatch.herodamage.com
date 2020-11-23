@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Hero Damage',
-    url: 'https://www.herodamage.com',
+    url: 'https://shadowlands-prepatch.herodamage.com',
     github: 'https://github.com/herotc/shadowlands-prepatch.herodamage.com',
     description: 'Class theorycrafting community, latest simulation results and resources -based on SimulationCraft- for World of Warcraft.',
     keywords: 'herotc, herodamage, world of warcraft, shadowlands prepatch, wow sl prepatch, theorycrafting, simulationcraft, simc',
